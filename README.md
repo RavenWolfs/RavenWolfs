@@ -6,11 +6,6 @@
 - 💞️ I’m looking to collaborate on Making project
 - 📫 How to reach me IG : @m.imaduddin.a 
 
-<div align="left">
-  <a href="https://open.spotify.com/user/kdmapper.exe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2sqedz98t0t3e2vtbvo2646vs&unique={true|1|on|yes}" alt="Spotify recently played"  />
-  </a>
-</div>
 
 # 💻 Tech Stack
 **Language** <div align="left"> 
