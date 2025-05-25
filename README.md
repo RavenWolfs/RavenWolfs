@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Imaduddin Al farobi , u can call me Imad</h1>
-<h3 align="center">I’m interested in Coding</h3>
+<h3 align="center">Wish Me Luck</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravenwolfs&label=Profile%20views&color=0e75b6&style=flat" alt="ravenwolfs" /> </p>
 
